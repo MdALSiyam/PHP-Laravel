@@ -11,7 +11,7 @@ class Mobile{
 }
 
 $mobile1 = new Mobile();
-$mobile1->brand = "Xiaomi";
+$mobile1->brand = "Realmi";
 $mobile1->color = "Black";
 $mobile1->price = "18,500";
 ?>
